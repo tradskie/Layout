@@ -371,7 +371,9 @@ h4 {
   margin: 0 auto;
   max-width: 250px;
 }
-
+.btn {
+  width: 100%;
+}
 .btn-hatch {
   color: #000000;
 
@@ -1089,6 +1091,7 @@ tr {
   min-height: 110px;
   align-content: center;
   padding: 15px;
+  margin-bottom: 25px;
 }
 .mine-card {
   color: white;
@@ -1130,6 +1133,7 @@ tr {
   margin-right: 20px;
   border-radius: 10px;
   border: 1px solid rgba(255, 255, 255, 0.4);
+  width: 800px;
   /* border: 1px solid #fdc500; */
   /* box-shadow: 0px 5px 20px rgb(255 255 255 / 30%), inset 0px 0px 0px rgb(0 0 0 / 32%); */
 }
